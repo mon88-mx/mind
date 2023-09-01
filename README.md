@@ -10,3 +10,14 @@ A thought I just can't put out of my head lately: living in Silicon Valley slowl
 <hr>
 
 Today's lesson was about golang... it used to be always an annoying task to try to learn go because eventually I just lose it. This time feels different. Like the language is finally there, where it is solid but welcoming too. This is just a start for a learning journey that I might not complete, but this time at least feels better; no more odd references to github repositories, no more odd manipulation of bytes. This brings me kind of to my struggle with life in here and how things roll, making things fast and deliver whatever, not sure why or how is that good to anyone but to the few chasing a contract, a sale, a promo... simply put, in my opinion there is no substitute to good craftmanship; measuring impact on how many persons use my shit vs. how many persons benefit from my work is a weak argument, but weak is what's out there.
+
+<hr>
+
+Words that shut off my brain during a conversation:
+
+* democratize
+* slice and dice
+* observability
+* unicorn
+
+If any of your speeches include any of these word/expressions, don't even try 
