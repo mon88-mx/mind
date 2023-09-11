@@ -20,4 +20,6 @@ Words that shut off my brain during a conversation:
 * observability
 * unicorn
 
-If any of your speeches include any of these word/expressions, don't even try 
+<hr>
+
+
