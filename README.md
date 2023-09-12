@@ -22,4 +22,4 @@ Words that shut off my brain during a conversation:
 
 <hr>
 
-
+Don't fear using stacks... this is something for me to remember, just got to solve an issue that required a map except the map was not useful but for sorting pairs that if used a stack would spare me 3 iterations making my problem linear. Lesson learned?
