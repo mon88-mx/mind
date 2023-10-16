@@ -17,8 +17,8 @@ Words that shut off my brain during a conversation:
 
 * democratize
 * slice and dice
-* observability
 * unicorn
+* ex-faang
 
 <hr>
 
