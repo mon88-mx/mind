@@ -27,3 +27,8 @@ Don't fear using stacks... this is something for me to remember, just got to sol
 <hr>
 
 How fast the world is going to shit, yet here we are, trying to cope with the changes and the ups and downs. Nothin new or exciting to say, I have become more accustmed with doing things fast and choosing more sophisticated ways to write code and address tasks, but well, that is just not luring more projects, just sparing me time. I was recently approached with recruiters asking me to join fintechs, yes, in 2023 there's still people who think that's a breakthrough, what's worse is using as introduction: "founded by ex-google employees", like that granted you the ability walk on the water. The only thing that tells me is they passed a "hard" interview... so exciting.
+
+<hr>
+
+Just got rejected from another process. Well I thought I did well except I did not, what did I do wrong? In my opinion: Being honest. Often times people want right answers more than the real ones that have everything in them but right because right is not real, is ideal and ideals only execute well in our minds until experience catches up.
+I am glad I got rejected, I am glad I am beyond these worlds where code golf and answering what was written down in a 10 year old book is the golden rule of how not to be an engineer, because engineers solve problems, sometimes efficiently, somethings poorly but they are problem solvers to the core. Nobody deserves half a mill for moving things to k8s or for knowing how to reverse a binary tree in scala. 
