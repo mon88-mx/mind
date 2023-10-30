@@ -1,4 +1,4 @@
-# mind
+# repo thoughts
 
 Not a fan of blogs nor social networks, yet I find value in writing my thoughts because that is one good way to train the skill of writing.
 So what is on my mind today?
