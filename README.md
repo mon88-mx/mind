@@ -18,7 +18,7 @@ Words that shut off my brain during a conversation:
 * democratize
 * slice and dice
 * unicorn
-* ex-faang
+* faang
 
 <hr>
 
@@ -31,4 +31,8 @@ How fast the world is going to shit, yet here we are, trying to cope with the ch
 <hr>
 
 Just got rejected from another process. Well I thought I did well except I did not, what did I do wrong? In my opinion: Being honest. Often times people want right answers more than the real ones that have everything in them but right because right is not real, is ideal and ideals only execute well in our minds until experience catches up.
-I am glad I got rejected, I am glad I am beyond these worlds where code golf and answering what was written down in a 10 year old book is the golden rule of how not to be an engineer, because engineers solve problems, sometimes efficiently, somethings poorly but they are problem solvers to the core. Nobody deserves half a mill for moving things to k8s or for knowing how to reverse a binary tree in scala. 
+I am glad I got rejected, I am glad I am beyond these worlds where code golf and answering what was written down in a 10 year old book is the golden rule of how not to be an engineer, because engineers solve problems, sometimes efficiently, sometimes poorly but they are problem solvers to the core. Nobody deserves half a mill for moving things to k8s or for knowing how to reverse a binary tree in scala. 
+
+<hr>
+
+Another year is almost gone and must said I learned a lot this time, but I did not which by itself is a good lesson. Introspective tells me I have wasted time, doing some but could have done more, I come to this realization because often times in this environment it just feels like we are experts in nothing and feel like we would give great insight if only we were given the chance, then we are complacient of that chance not coming and waiting for it but there lies the flaw; often times those who might can and know less actually get farther and not because they had more skills, it is just a matter of doing more. So, note to myself, do more, try more, expect more.
