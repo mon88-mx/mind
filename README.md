@@ -26,7 +26,7 @@ Don't fear using stacks... this is something for me to remember, just got to sol
 
 <hr>
 
-How fast the world is going to shit, yet here we are, trying to cope with the changes and the ups and downs. Nothin new or exciting to say, I have become more accustmed with doing things fast and choosing more sophisticated ways to write code and address tasks, but well, that is just not luring more projects, just sparing me time. I was recently approached with recruiters asking me to join fintechs, yes, in 2023 there's still people who think that's a breakthrough, what's worse is using as introduction: "founded by ex-google employees", like that granted you the ability walk on the water. The only thing that tells me is they passed a "hard" interview... so exciting.
+How fast the world is going to shit, yet here we are, trying to cope with the changes and the ups and downs. Nothing new or exciting to say, I have become more accustmed with doing things fast and choosing more sophisticated ways to write code and address tasks, but well, that is just not luring more projects, just sparing me time. I was recently approached with recruiters asking me to join fintechs, yes, in 2023 there's still people who think that's a breakthrough, what's worse is using as introduction: "founded by ex-google employees", like that granted you the ability walk on the water. The only thing that tells me is they passed a "hard" interview... so exciting.
 
 <hr>
 
