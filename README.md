@@ -5,7 +5,7 @@ So what is on my mind today?
 
 I am practicing a silly approach to recurse a graph, going back to the basics training with trees and finding out ubuntu nowadays installs faster using the WSL extension than on top of virtualbox, which kind of makes me happy, I think Windows is a mess but a brearable one when the alternative is Oracle's big ego (vbox).
 
-A thought I just can't put out of my head lately: living in Silicon Valley slowly extinguishes my enthusiasm for technology.
+A thought I just can't put out of my head lately: living in Silicon Valley is great for killing one's love for technology. Let that sink in.
 
 <hr>
 
@@ -26,7 +26,7 @@ Don't fear using stacks... this is something for me to remember, just got to sol
 
 <hr>
 
-How fast the world is going to shit, yet here we are, trying to cope with the changes and the ups and downs. Nothing new or exciting to say, I have become more accustmed with doing things fast and choosing more sophisticated ways to write code and address tasks, but well, that is just not luring more projects, just sparing me time. I was recently approached with recruiters asking me to join fintechs, yes, in 2023 there's still people who think that's a breakthrough, what's worse is using as introduction: "founded by ex-google employees", like that granted you the ability walk on the water. The only thing that tells me is they passed a "hard" interview... so exciting.
+How fast the world is spiraling down, yet here we are, trying to cope with the changes and the ups and downs. Nothing new or exciting to say, I have become more accustmed with doing things fast and choosing more sophisticated ways to write code and address tasks, but well, that is just not luring more projects, just sparing me time. I was recently approached with recruiters asking me to join fintechs, yes, in 2023 there's still people who think that's a breakthrough, what's worse is using as introduction: "founded by ex-google employees", like that granted you the ability walk on the water. The only thing that should tell, is they passed a "hard" interview.
 
 <hr>
 
@@ -42,3 +42,7 @@ Another year is almost gone and must said I learned a lot this time, but I did n
 You will never need to scale like google. Those words hurt the soul of an entrepreneur dreaming of being the next big deal but probably those hurtful words are important to be told early enough. Many projects and positions I've seen lately look for experts in things most of the time nobody needs, but all use because it is within what the industry uses as standard. Just like Toyota will never be Tesla, as bad as the metaphor is, starting simple pays better.
 I have seen oftentimes teams of people working exhaustively creating clusters of containers of a service that basically is never deemed to have downtime or that downtime will not crush simply because most of its workload is not in the scale they pretend to have, but they bet high on the traffic that will come... if it does.
 I might say this out of myself burning out, but a good architecture does not start with a myriad of services, it starts with a good architecture, where buffers are present in the right places and where business needs are translated into useful components following useful principles. My take on interviews and consulting is often times the same: yes downtime is a concern, especially when it is caused by updates, but an outage on lack of liquidity is worse. So yeah, keep on learning huge ass service architectures, play with k8s, k3s and what not, but overall, build a damn resilient design and a realistic error budget first.
+
+<hr>
+
+In more exciting news, turns out finally managed to get myself a raspberry cluster and boy oh boy, that's like a must for anyone willing to actually do something in this branch, I did not imagine how much I was missing until I added it, then I realize that this stack paired with a fair amount of books is the best didactic material I've ever had.
