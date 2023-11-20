@@ -46,3 +46,4 @@ I might say this out of myself burning out, but a good architecture does not sta
 <hr>
 
 In more exciting news, turns out finally managed to get myself a raspberry cluster and boy oh boy, that's like a must for anyone willing to actually do something in this branch, I did not imagine how much I was missing until I added it, then I realize that this stack paired with a fair amount of books is the best didactic material I've ever had.
+
